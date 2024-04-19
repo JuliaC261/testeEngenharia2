@@ -1,0 +1,3 @@
+texto de teste
+texto de teste.
+Versão 1.
